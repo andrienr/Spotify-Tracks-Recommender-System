@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+scipy
+implicit
+tensorflow
+tensorflow-recommenders
